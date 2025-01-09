@@ -1,2 +1,2 @@
 # MagazineCSS-FCC
-Magazine Project
+This is the completed Magazine Practice Project from FreeCodeCamp Responsive Frontend Path

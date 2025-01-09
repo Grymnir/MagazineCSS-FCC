@@ -1,1 +1,2 @@
 # MagazineCSS-FCC
+Magazine Project
